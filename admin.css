@@ -1,0 +1,22 @@
+/*admin css */
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #b9fffc;
+}
+li
+{
+  float: left;
+}
+
+li a {
+  display: block;
+  padding: 8px;
+
+}
+.navbar
+{
+  font-size: 130%;
+}

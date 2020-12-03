@@ -1,0 +1,35 @@
+/*button styling*/
+.button1 {
+  border: none;
+  height:50px;
+  width:120px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  background-color: #98acf8;
+  position: absolute;
+  /*position of the button*/
+  top: 30%;
+  right:52%;
+  font-size: medium;
+}
+.button2 {
+  border: none;
+  height:50px;
+  width:120px;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+  background-color: #98acf8;
+  position: absolute;
+  /*button position*/
+  top: 30%;
+  right:42%;
+  font-size: medium;
+}

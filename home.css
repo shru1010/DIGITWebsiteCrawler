@@ -1,0 +1,21 @@
+/*home.php page*/
+.body{
+  background: #c6fced;
+
+}
+div{
+  font-size: 22px;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #b9fffc;
+}
+li a {
+  display: block;
+  padding: 8px;
+  float: right;
+}
